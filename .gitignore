@@ -1,0 +1,21 @@
+
+# Executaveis de ferramentas externas
+yt-dlp.exe
+ffmpeg.exe
+ffprobe.exe
+
+# Arquivos baixados
+Downloads/
+
+# Historico e registros
+Logs/
+*.log
+*.csv
+
+# Arquivos temporarios
+*.tmp
+*.temp
+*.bak
+
+# Configuracoes locais do editor
+.vscode/
